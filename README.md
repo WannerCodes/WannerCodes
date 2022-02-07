@@ -23,6 +23,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Future technologies:
 *Technologies I want to learn in the near future*
@@ -47,3 +48,20 @@
 - ⚡ Fun fact: 
     + I have a special interest for economy, and was planning to head this direction before entering the millitary. During this time I found my interest for programming, and             realized I wanted to head in the direction of informatics.
     + I've been rated top 4000 (aproximatly top 0.2%) in valorant, one of the most popular tactical fps games. I am a strong believer that this has also improved my skill within       managing and working within teams.
+
+
+
+### UIO courses taken:
+  -  IN1000 - Introduction to objectoriented programming [Python]
+  -  IN1020 - Introduction to data technologies
+  -  Exphil03 - Examen Philosophicum
+  -  IN1010 - Objectoriented programming [Java]
+  -  IN1030 - Systems, demands and consequences
+  -  IN1150 - Logical methods
+  -  IN2010 - Algorithms and data structures
+  -  IN2120 - Information security
+  -  IN2090 - Databases and data modelling
+
+### Currently taking:
+  -   IN2000 - Software Engineering with project [Android Studio, Kotlin, XML]
+  -   IN2140 - Introduction to operating systems og data communication [C, VSCode]
