@@ -41,9 +41,7 @@
 ## My information
 
 - 🔭 I’m currently working on
-  + Basic android application
-  + Snakes and ladders in java
-  + Sorting algorithms in python
+  + Working at Lime Green Digital AS as a fullstack developer
 
 - 📫 How to reach me:
     + Email: henrik.w@live.no (all other contact info can be gotten through mail)
@@ -67,7 +65,9 @@
   -  IN2010 - Algorithms and data structures
   -  IN2120 - Information security
   -  IN2090 - Databases and data modelling
-
+  -  IN2000 - Software Engineering with project [Android Studio, Kotlin, XML]
+  -  IN2140 - Introduction to operating systems og data communication [C, VSCode]
+  
+  
 ### Currently taking:
-  -   IN2000 - Software Engineering with project [Android Studio, Kotlin, XML]
-  -   IN2140 - Introduction to operating systems og data communication [C, VSCode]
+  - [Summer break]
